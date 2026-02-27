@@ -1212,6 +1212,9 @@
   "richie5um2.vscode-sort-json": {
     "repository": "https://github.com/richie5um/vscode-sort-json"
   },
+  "RimuruChan.vscode-fix-checksums-next": {
+    "repository": "https://github.com/RimuruChan/vscode-fix-checksums"
+  },
   "rioj7.command-variable": {
     "repository": "https://github.com/rioj7/command-variable",
     "prepublish": "npm run build"
